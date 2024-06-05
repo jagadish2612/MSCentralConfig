@@ -1,0 +1,11 @@
+build:
+  version: v1
+
+accounts:
+  message: "Welcome to smooth banking account related to admin"
+  contactDetails:
+    name: "smoothbanking"
+    email: "smoothbank@sbank.co"
+  onCallSupport:
+    - 9875432456
+    - 8765432467

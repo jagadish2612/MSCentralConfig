@@ -1,0 +1,9 @@
+cards:
+  message: "Welcome to smooth banking crads related to production"
+  contactDetails:
+    name: "smoothbankingcards"
+    email: "smoothbankcards@sbank.co"
+  onCallSupport:
+    - 6394572489
+    - 6245592944
+  version: vC.2

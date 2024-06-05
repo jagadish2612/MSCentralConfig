@@ -1,0 +1,11 @@
+build:
+  version: vL.2
+
+loans:
+  message: "Welcome to smooth banking loans related to production"
+  contactDetails:
+    name: "smoothbankingprod loans"
+    email: "smoothbankprodloan@sbank.co"
+  onCallSupport:
+    - 7394572489
+    - 7245592944

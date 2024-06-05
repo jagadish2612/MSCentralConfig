@@ -1,0 +1,11 @@
+build:
+  version: vC.1
+
+loans:
+  message: "Welcome to smooth banking cards related to admin"
+  contactDetails:
+    name: "smoothbanking cards admin"
+    email: "smoothbankcardsadmin@sbank.co"
+  onCallSupport:
+    - 8875432456
+    - 8765432467

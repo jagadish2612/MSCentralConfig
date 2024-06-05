@@ -1,0 +1,11 @@
+build:
+  version: v2
+
+accounts:
+  message: "Welcome to smooth banking account related to production"
+  contactDetails:
+    name: "smoothbankingprod"
+    email: "smoothbankprod@sbank.co"
+  onCallSupport:
+    - 7394572489
+    - 7245592944

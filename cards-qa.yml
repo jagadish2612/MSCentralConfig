@@ -1,0 +1,11 @@
+build:
+  version: vC.3
+
+cards:
+  message: "Welcome to smooth banking cards related to QA"
+  contactDetails:
+    name: "smoothbankingcardsqa"
+    email: "smoothbankcardsqa@sbank.co"
+  onCallSupport:
+    - 5394572489
+    - 5245592944

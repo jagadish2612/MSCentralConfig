@@ -1,0 +1,11 @@
+build:
+  version: v3
+
+accounts:
+  message: "Welcome to smooth banking account related to QA"
+  contactDetails:
+    name: "smoothbankingqa"
+    email: "smoothbankqa@sbank.co"
+  onCallSupport:
+    - 6223232134
+    - 6223424599
