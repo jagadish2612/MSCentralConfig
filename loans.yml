@@ -2,7 +2,7 @@ build:
   version: vL.1
 
 loans:
-  message: "Welcome to smooth banking account related to admin"
+  message: "Welcome to smooth banking account related to administartor"
   contactDetails:
     name: "smoothbanking admin loans"
     email: "smoothbankadminloans@sbank.co"
