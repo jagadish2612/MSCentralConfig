@@ -2,9 +2,9 @@ build:
   version: vC.3
 
 cards:
-  message: "Welcome to smooth banking cards related to QA"
+  message: "Welcome to smooth banking cards related to QC"
   contactDetails:
-    name: "smoothbankingcardsqa"
+    name: "smoothbanking QC cards"
     email: "smoothbankcardsqa@sbank.co"
   onCallSupport:
     - 5394572489
