@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to smooth banking account related to administartor"
   contactDetails:
-    name: "smoothbanking admin loans"
+    name: "smoothbanking administrator loans"
     email: "smoothbankadminloans@sbank.co"
   onCallSupport:
     - 5875432456
