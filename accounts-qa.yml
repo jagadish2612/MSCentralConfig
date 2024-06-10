@@ -2,7 +2,7 @@ build:
   version: v3
 
 accounts:
-  message: "Welcome to smooth banking account related to Quality"
+  message: "Welcome to smooth banking account related to Quality & webhook
   contactDetails:
     name: "smoothbankingqa"
     email: "smoothbankqa@sbank.co"
