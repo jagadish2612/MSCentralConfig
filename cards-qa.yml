@@ -2,7 +2,7 @@ build:
   version: vC.3
 
 cards:
-  message: "Welcome to smooth banking cards related to Quality webhook 99"
+  message: "Welcome to smooth banking cards related to Quality webhook 64356"
   contactDetails:
     name: "smoothbanking QC cards"
     email: "smoothbankcardsqa@sbank.co"
