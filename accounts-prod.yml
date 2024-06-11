@@ -2,7 +2,7 @@ build:
   version: v2
 
 accounts:
-  message: "Welcome to smooth banking account related to production config webhook 999"
+  message: "Welcome to smooth banking account related to production config webhook 355"
   contactDetails:
     name: "smoothbankingprod"
     email: "{cipher}59e82c8057cbdd3f2354e0ca3fe6ecdfdeb0354748c642636f4a2d1b251b5117d781e260d9f9702e0b484c8f84676eb8"
