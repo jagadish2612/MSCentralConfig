@@ -2,7 +2,7 @@ build:
   version: v1
 
 accounts:
-  message: "Welcome to smooth banking account related to admin docker-compose"
+  message: "Welcome to smooth banking account related to admin docker-compose webhook"
   contactDetails:
     name: "smoothbanking admin"
     email: "smoothbank@sbank.co"
