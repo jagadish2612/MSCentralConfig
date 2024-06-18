@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to smooth banking crads related to production webhook"
+  message: "Welcome to smooth banking crads related to production docker-compose webhook"
   contactDetails:
     name: "smoothbankingcards"
     email: "smoothbankcards@sbank.co"
